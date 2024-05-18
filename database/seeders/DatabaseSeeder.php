@@ -50,6 +50,15 @@ class DatabaseSeeder extends Seeder
 
             'is_admin' => true,
         ]);
+        User::factory()->create([
+            'name' => 'Muhamamd Davin Widyatmaka',
+            'email' => 'MDavinW@gmail.com',
+            'email_verified_at' => now(),
+            'password' => Hash::make('davin123'),
+            'remember_token' => Str::random(10),
+
+            'is_admin' => false,
+        ]);
 
         // Factory
         User::factory(100)->create();
