@@ -7,16 +7,16 @@
 ![alt text](screenshot/tugas11/Profile.png)
 
 ## 3. Todo Index
-![alt text](screenshot/tugas11/Todo Index.png)
+![alt text](screenshot/tugas11/TodoIndex.png)
 
 ## 4. Todo Show
-![alt text](screenshot/tugas11/Todo Show.png)
+![alt text](screenshot/tugas11/TodoShow.png)
 
-## 4. Todo Show Forbidden
-![alt text](screenshot/tugas11/Todo Show Forbidden.png)
+## 5. Todo Show Forbidden
+![alt text](screenshot/tugas11/TodoShowForbidden.png)
 
-## 4. Todo Search
-![alt text](screenshot/tugas11/Todo Search.png)
+## 6. Todo Search
+![alt text](screenshot/tugas11/TodoSearch.png)
 
-## 4. Logout
+## 7. Logout
 ![alt text](screenshot/tugas11/Logout.png)
